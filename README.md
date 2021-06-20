@@ -5,5 +5,6 @@
 
 
 - JSON
-- Fetch
+- Fetch API
+- ExchangeRate-API
 - DOM Manipulation
